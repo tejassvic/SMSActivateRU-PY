@@ -16,7 +16,7 @@ setuptools.setup(
     license='#',
     author='WarHawk',
     author_email='WarHawk-Dcoderz@protonmail.com',
-    url='https://github.com/WarHawk-Dcoderz/SMSActivateRU-PY',
+    url='git@github.com:WarHawk-Dcoderz/SMSActivateRU-PY',
     packages=setuptools.find_packages(),
     classifiers=[
         'Development Status :: 4 - Beta',
